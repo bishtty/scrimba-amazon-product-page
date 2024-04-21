@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.space-between {
+    margin-left: 20px;
+    width: auto;
+}
+
+.title {
+    font-weight: lighter;
+    }
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 300px;
+}
+.txt-color {
+    color: #565959;
+}
+.auth-txt-color {
+    color: #007185;
+}
+
+.rating-img {
+    width: 100px;
+}
